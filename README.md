@@ -1,6 +1,7 @@
 ## Hi, Eu sou o Weslley Victor
 
 <li>Link do meu portfólio</li>
+<li>Fun fact: I know resolve magic cube</li>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Weslley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
