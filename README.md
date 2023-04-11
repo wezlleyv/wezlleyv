@@ -10,6 +10,8 @@
   <img align="center" alt="Weslley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Weslley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Weslley-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"
+       
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://instagram.fqnv4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/244595062_3088811258034319_6861417301482109339_n.jpg?_nc_ht=instagram.fqnv4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=g0Khlz3ls7QAX-aJIWZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-QBQILBhA3Va6kv9m-UiwdqQWB764xmlidjyXmcx6bOQ&oe=61E17B23&_nc_sid=7bff83?width=676&height=676](https://instagram.fsdu29-1.fna.fbcdn.net/v/t51.2885-19/244595062_3088811258034319_6861417301482109339_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fsdu29-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=IfyStpsh9UUAX_1UAZ7&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfDBpua0UmZTJt7clyljoriUPBKfZ9KufqQMpC0X5VynSA&oe=64398207&_nc_sid=1527a3)">
 </div>
   
   ##
