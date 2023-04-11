@@ -1,7 +1,7 @@
 ## Hi, Eu sou o Weslley Victor
 
 <li>Link do meu portfólio</li>
-<li>Linux user:heart:</li>
+<li>Linux user :heart:</li>
 <li>Fun fact: I know resolve magic cube</li>
 
 <div style="display: inline_block"><br>
