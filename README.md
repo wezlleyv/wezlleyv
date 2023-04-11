@@ -11,7 +11,7 @@
   <img align="center" alt="Weslley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Weslley-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"
        
-  <img align="right" alt="Weslley-pic" height="150" style="border-radius:50px;" src="https://instagram.fsdu29-1.fna.fbcdn.net/v/t51.2885-19/244595062_3088811258034319_6861417301482109339_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fsdu29-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=IfyStpsh9UUAX_1UAZ7&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfDBpua0UmZTJt7clyljoriUPBKfZ9KufqQMpC0X5VynSA&oe=64398207&_nc_sid=1527a3">
+  <img alt="weslley-pic" align="right" style="border-radius: 10px;height: 150px; width: 150px;" src="https://cdn.discordapp.com/avatars/474627600682319872/6ca667c8dce90141dd014a710d5621dc.webp?size=80">
 </div>
   
   ##
