@@ -9,7 +9,7 @@
   <img align="center" alt="Weslley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Weslley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Weslley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Weslley-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"
+  <img align="center" alt="Weslley-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
        
   <img alt="weslley-pic" align="right" style="border-radius: 10px;height: 150px; width: 150px;" src="https://cdn.discordapp.com/avatars/474627600682319872/6ca667c8dce90141dd014a710d5621dc.webp?size=80">
 </div>
