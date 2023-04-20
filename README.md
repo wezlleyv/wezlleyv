@@ -1,6 +1,6 @@
 ## Hi, I'm Weslley Victor
 
-<li>My portfolio is <a target='_blank' href="weslleyvictor.tech"></a></li>
+<li>My <a target='_blank' href="weslleyvictor.tech">portfolio</a></li>
 <li>Linux user :heart:</li>
 <li>Fun fact: I know resolve magic cube</li>
 
