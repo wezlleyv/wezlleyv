@@ -1,4 +1,4 @@
-## Hi, Eu sou o Weslley Victor
+## Hi, I'm Weslley Victor
 
 <li>Link do meu portfólio</li>
 <li>Linux user :heart:</li>
