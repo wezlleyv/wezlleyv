@@ -8,6 +8,7 @@
   <img align="center" alt="Weslley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Weslley-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Weslley-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Weslley-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
        
   <img alt="weslley-pic" align="right" style="border-radius: 50px;height: 150px; width: 150px;" src="https://cdn.discordapp.com/avatars/474627600682319872/6ca667c8dce90141dd014a710d5621dc.webp?size=80">
 </div>
