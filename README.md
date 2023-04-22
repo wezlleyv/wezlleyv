@@ -2,7 +2,7 @@
 
 <li>My <a target='_blank' href="https://weslleyvictor.tech">portfolio</a></li>
 <li>Linux user :heart:</li>
-<li>Fun fact: I know resolve magic cube</li>
+<li>Fun fact: I know resolve magic cube and my record is 1 min 33 sec</li>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Weslley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
