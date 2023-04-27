@@ -13,9 +13,6 @@
    <img align="center" alt="Weslley-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
   
-  <img alt="weslley-pic" align="right" style="border-radius: 50px;height: 150px; width: 150px;" src="https://cdn.discordapp.com/avatars/474627600682319872/6ca667c8dce90141dd014a710d5621dc.webp?size=80">
-</div>
-  
   ##
   
  <div> 
