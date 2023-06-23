@@ -1,6 +1,6 @@
 ## Hi, I'm Weslley Victor
 
-<li>My <a target='_blank' href="https://weslleyvictor.tech">portfolio</a></li>
+<li>My <a target='_blank' href="https://weslleyvictor.tech">portfolio</a> > I'm building < </li>
 <li>Linux user :heart:</li>
 <li>Fun fact: I know resolve magic cube and my record is 1 min 33 sec</li>
 
