@@ -7,8 +7,8 @@ Bem-vindo(a) ao meu repositório de projetos de cibersegurança. Aqui você enco
 ## 🚀 Sobre Mim
 
 Sou profissional de cibersegurança com foco em **segurança ofensiva**, realizando estudos contínuos em:
-- Web Application Security (via PortSwigger)
-- Network & Infra Pentest (HTB, TryHackMe)
+- Web Application Security
+- Network & Infra Pentest
 - Privilege Escalation (Linux & Windows)
 - Active Directory Labs
 - Ferramentas de automação e exploit development
