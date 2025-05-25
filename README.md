@@ -14,3 +14,22 @@ Sou profissional de cibersegurança com foco em **segurança ofensiva**, realiza
 - Ferramentas de automação e exploit development
 
 ---
+
+## 📂 Estrutura dos Projetos
+
+```bash
+/
+├── web-pentest/
+│   ├── portswigger-labs/
+│   ├── burp-cheatsheets/
+│   └── custom-payloads/
+├── htb-writeups/
+│   ├── [machine-name]/
+│   └── [machine-name]/
+├── tryhackme-notes/
+├── privesc/
+│   ├── linux/
+│   └── windows/
+├── tools-scripts/
+│   └── [scripts úteis, recon, automação]
+└── README.md
