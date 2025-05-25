@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🛡️ Cybersecurity Projects by Weslley
 
-<!--
-**wezlleyv/wezlleyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu repositório de projetos de cibersegurança. Aqui você encontrará estudos práticos, labs resolvidos, scripts personalizados e anotações que refletem minha jornada na área de segurança ofensiva e pentest.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+
+Sou profissional de cibersegurança com foco em **segurança ofensiva**, realizando estudos contínuos em:
+- Web Application Security (via PortSwigger)
+- Network & Infra Pentest (HTB, TryHackMe)
+- Privilege Escalation (Linux & Windows)
+- Active Directory Labs
+- Ferramentas de automação e exploit development
+
+---
